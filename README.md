@@ -74,8 +74,8 @@ Atualmente focando em aprender e praticar essas tecnologias:
   >
   <img 
     align="center" 
-    alt="Tailwind"
-    title="Tailwind"
+    alt="MySQL"
+    title="MySQL"
     height="40"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
