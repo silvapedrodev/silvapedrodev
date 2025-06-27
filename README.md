@@ -102,7 +102,7 @@ Atualmente focando em aprender e praticar essas tecnologias:
 <div> 
   <a href="https://github.com/silvapedrodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvapedrodev&show_icons=true&theme=nightowl&include_all_commits=flase"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvapedrodev&theme=nightowl&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvapedrodev&theme=nightowl&layout=compact&custom_title=Most%20Used%20Languages&langs_count=8"/>
 </div>
 
 ##
