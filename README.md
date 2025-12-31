@@ -82,6 +82,14 @@ Atualmente focando em aprender e praticar essas tecnologias:
   >
   <img 
     align="center" 
+    alt="PostgreSQL"
+    title="PostgresSQL"
+    height="40"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+  >
+  <img 
+    align="center" 
     alt="Java"
     title="Java"
     height="40"
