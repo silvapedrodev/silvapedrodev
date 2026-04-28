@@ -15,96 +15,18 @@ Atualmente focando em aprender e praticar essas tecnologias:
 ---
 
 ### 🚀 Languages and Technologies
-<div style="display: inline-block;">
-  <img 
-    align="center" 
-    alt="HTML5"
-    title="HTML5"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  >
-   <img 
-    align="center" 
-    alt="CSS3"
-    title="CSS3"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="JavaScript"
-    title="JavaScript"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="TypeScript"
-    title="TypeScript"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="React"
-    title="React"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="Nextjs"
-    title="Nextjs"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="Tailwind"
-    title="Tailwind"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="MySQL"
-    title="MySQL"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-  >
-  <img 
-    align="center" 
-    alt="PostgreSQL"
-    title="PostgresSQL"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
-  >
-  <img 
-    align="center" 
-    alt="Java"
-    title="Java"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-  >
-    <img 
-    align="center" 
-    alt="Python"
-    title="Python"
-    height="40"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  >
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Nextjs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" title="PostgresSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" title="Docker"/>
+</p>
 
 ### 📊 Statistics
 <div> 
